@@ -1,6 +1,5 @@
-from __future__ import print_function
 import pandas as _pd
-from lib import violinplots, distribution, heatmaps, cabplots
+from lib import violinplots, heatmaps, cabplots
 from glob import glob as _glob
 import re as _re
 from ipywidgets import fixed, widgets
