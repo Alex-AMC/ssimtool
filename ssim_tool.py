@@ -8,8 +8,7 @@ from lib import distribution as _dis
 
 class SSIMAnalyse:
 
-    """Class used to extract data from Morphology Files and Data Outputed by Surface-Surface Interaction Tool
-
+    """Class used to extract data from Morphology Files and Data Outputed by Surface-Surface Interaction Model
     Attributes
     ----------
     violin_data : obj:'dataframe'
